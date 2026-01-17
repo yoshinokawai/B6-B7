@@ -1,0 +1,12 @@
+{
+    "expo": {
+        "name": "custom-component",
+        "slug": "custom-component",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "light",
+        "assetBundlePatterns": [
+            "**/*"
+        ]
+    }
+}

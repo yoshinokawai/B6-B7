@@ -1,0 +1,13 @@
+Starting project at D:\Code\Android\Custom component
+Error: ENOENT: no such file or directory, mkdir 'D:\Code\Android\Custom component\.expo\metro\externals\node:sea'
+Error: ENOENT: no such file or directory, mkdir 'D:\Code\Android\Custom component\.expo\metro\externals\node:sea'
+    at Object.mkdir (node:internal/fs/promises:861:10)
+    at tapNodeShims (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\externals.ts:97:7)
+    at Object.setupNodeExternals (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\externals.ts:50:3)
+    at Object.withMetroMultiPlatformAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\withMetroMultiPlatform.ts:480:3)
+    at loadMetroConfigAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\instantiateMetro.ts:108:12)
+    at Object.instantiateMetroAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\instantiateMetro.ts:147:53)
+    at MetroBundlerDevServer.startImplementationAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\metro\MetroBundlerDevServer.ts:414:58)
+    at MetroBundlerDevServer.startAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\BundlerDevServer.ts:159:18)
+    at DevServerManager.startAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\server\DevServerManager.ts:176:7)
+    at startAsync (D:\Code\Android\Custom component\node_modules\@expo\cli\src\start\startAsync.ts:93:3)
